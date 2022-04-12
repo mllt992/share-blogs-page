@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://mllt992.github.io/share-blogs-page/</id>
+    <title>萌狼工作室</title>
+    <updated>2022-04-12T18:00:49.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://mllt992.github.io/share-blogs-page/"/>
+    <link rel="self" href="https://mllt992.github.io/share-blogs-page/atom.xml"/>
+    <subtitle>欢迎关注微信公众号：萌狼蓝天</subtitle>
+    <logo>https://mllt992.github.io/share-blogs-page/images/avatar.png</logo>
+    <icon>https://mllt992.github.io/share-blogs-page/favicon.ico</icon>
+    <rights>All rights reserved 2022, 萌狼工作室</rights>
+    <entry>
+        <title type="html"><![CDATA[【文档】【Word】简历模板下载]]></title>
+        <id>https://mllt992.github.io/share-blogs-page/post/template-word-jianli/</id>
+        <link href="https://mllt992.github.io/share-blogs-page/post/template-word-jianli/">
+        </link>
+        <updated>2022-04-12T16:26:29.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【链接收藏】电脑管理相关资源]]></title>
+        <id>https://mllt992.github.io/share-blogs-page/post/link-computer/</id>
+        <link href="https://mllt992.github.io/share-blogs-page/post/link-computer/">
+        </link>
+        <updated>2022-04-12T13:35:37.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【脚本】【学习通】自动播放代码]]></title>
+        <id>https://mllt992.github.io/share-blogs-page/post/js-zdbf/</id>
+        <link href="https://mllt992.github.io/share-blogs-page/post/js-zdbf/">
+        </link>
+        <updated>2022-04-12T13:32:14.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>啊，你知道这个视频是我多年前发的。这么久过去了，我并不知道是不是还能用了，不过你可以试一试</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>啊，你知道这个视频是我多年前发的。这么久过去了，我并不知道是不是还能用了，不过你可以试一试</p>
+</blockquote>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【易语言】关于易语言的一些资源]]></title>
+        <id>https://mllt992.github.io/share-blogs-page/post/all-yyy/</id>
+        <link href="https://mllt992.github.io/share-blogs-page/post/all-yyy/">
+        </link>
+        <updated>2022-04-12T13:29:45.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>各位，萌狼蓝天于2020年就完全放弃了易语言，转行学Java了。所以这些资源在后期并没有去维护和管它。</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>各位，萌狼蓝天于2020年就完全放弃了易语言，转行学Java了。所以这些资源在后期并没有去维护和管它。</p>
+</blockquote>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【软件资源】Adobe相关]]></title>
+        <id>https://mllt992.github.io/share-blogs-page/post/software-adobe/</id>
+        <link href="https://mllt992.github.io/share-blogs-page/post/software-adobe/">
+        </link>
+        <updated>2022-04-12T13:24:24.000Z</updated>
+        <summary type="html"><![CDATA[<p>说明：包含Photoshop、Premiere、Audition等</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>说明：包含Photoshop、Premiere、Audition等</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[萌狼分享站 - 站点说明]]></title>
+        <id>https://mllt992.github.io/share-blogs-page/post/welcome/</id>
+        <link href="https://mllt992.github.io/share-blogs-page/post/welcome/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>这个网站用于为关注我微信公众号的亲们提供一些资源。在资源比较多的情况下，您可以通过搜索快速找到您想要的资源。祝您玩得愉快</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>这个网站用于为关注我微信公众号的亲们提供一些资源。在资源比较多的情况下，您可以通过搜索快速找到您想要的资源。祝您玩得愉快</p>
+]]></content>
+    </entry>
+</feed>
